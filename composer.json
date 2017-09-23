@@ -1,0 +1,7 @@
+{
+    "name":"cleberar/net-gearman",
+    "description":"Drivers Gearman PHP",
+    "autoload":{
+        "classmap":["./"]
+    }
+}
