@@ -1,5 +1,5 @@
 {
-    "name":"cleberar/net-gearman",
+    "name":"beonpop/net-gearman",
     "description":"Drivers Gearman PHP",
     "autoload":{
         "classmap":["./"]
